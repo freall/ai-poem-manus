@@ -1,6 +1,6 @@
 import { eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users } from "../drizzle/schema";
+import { InsertUser, users, poems, questions, userLearningRecords, userAnswers, userAchievements, InsertUserLearningRecord } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -89,4 +89,99 @@ export async function getUserByOpenId(openId: string) {
   return result.length > 0 ? result[0] : undefined;
 }
 
-// TODO: add feature queries here as your schema grows.
+// 诗词查询函数
+export async function getAllPoems() {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(poems).orderBy(poems.id);
+}
+
+export async function getPoemById(id: number) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(poems).where(eq(poems.id, id)).limit(1);
+  return result[0];
+}
+
+export async function getPoemsByFestival(festival: string) {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(poems).where(eq(poems.festival, festival)).orderBy(poems.id);
+}
+
+export async function getPoemsBySeason(season: string) {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(poems).where(eq(poems.season, season)).orderBy(poems.id);
+}
+
+// 问答题查询函数
+export async function getQuestionsByPoemId(poemId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(questions).where(eq(questions.poemId, poemId)).orderBy(questions.questionIndex);
+}
+
+// 用户学习记录函数
+export async function getUserLearningRecord(userId: number, poemId: number) {
+  const db = await getDb();
+  if (!db) return undefined;
+  const result = await db.select().from(userLearningRecords)
+    .where(eq(userLearningRecords.userId, userId) && eq(userLearningRecords.poemId, poemId))
+    .limit(1);
+  return result[0];
+}
+
+export async function getUserLearningRecords(userId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(userLearningRecords).where(eq(userLearningRecords.userId, userId));
+}
+
+export async function updateUserLearningRecord(userId: number, poemId: number, data: Partial<InsertUserLearningRecord>) {
+  const db = await getDb();
+  if (!db) return;
+  
+  const existing = await getUserLearningRecord(userId, poemId);
+  if (existing) {
+    await db.update(userLearningRecords)
+      .set({ ...data, updatedAt: new Date() })
+      .where(eq(userLearningRecords.userId, userId) && eq(userLearningRecords.poemId, poemId));
+  } else {
+    await db.insert(userLearningRecords).values({
+      userId,
+      poemId,
+      ...data,
+    });
+  }
+}
+
+// 用户答题记录函数
+export async function recordUserAnswer(userId: number, questionId: number, userAnswer: string, isCorrect: boolean) {
+  const db = await getDb();
+  if (!db) return;
+  await db.insert(userAnswers).values({
+    userId,
+    questionId,
+    userAnswer,
+    isCorrect,
+  });
+}
+
+// 用户成就函数
+export async function unlockAchievement(userId: number, achievementType: string, achievementName: string, description?: string) {
+  const db = await getDb();
+  if (!db) return;
+  await db.insert(userAchievements).values({
+    userId,
+    achievementType,
+    achievementName,
+    description,
+  });
+}
+
+export async function getUserAchievements(userId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(userAchievements).where(eq(userAchievements.userId, userId));
+}
