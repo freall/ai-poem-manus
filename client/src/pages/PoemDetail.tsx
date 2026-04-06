@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { markPoemLearned, recordQuestionAttempt, toggleFavorite, useLearningRecord } from "@/lib/learning";
-import { getPoemById, getPoemImageUrl, getQuizQuestions } from "@/lib/poems";
+import { ALL_POEMS, getPoemById, getPoemImageUrl, getQuizQuestions } from "@/lib/poems";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChevronLeft, ChevronRight, Heart } from "lucide-react";
 
@@ -23,6 +23,17 @@ export default function PoemDetail() {
   const questions = useMemo(() => (poem ? getQuizQuestions(poem) : []), [poem]);
   const currentQuestion = questions[currentQuestionIndex];
   const isCorrect = selectedAnswer === currentQuestion?.correctAnswer;
+
+  const neighborPoems = useMemo(() => {
+    const index = ALL_POEMS.findIndex((item) => item.id === poemId);
+    if (index < 0) {
+      return { prev: undefined, next: undefined };
+    }
+    return {
+      prev: ALL_POEMS[index - 1],
+      next: ALL_POEMS[index + 1],
+    };
+  }, [poemId]);
 
   useEffect(() => {
     setCurrentQuestionIndex(0);
@@ -130,6 +141,27 @@ export default function PoemDetail() {
               <CardContent className="pt-8">
                 <div className="mb-8 rounded-lg overflow-hidden shadow-md border border-purple-100">
                   <img src={getPoemImageUrl(poem)} alt={poem.title} className="w-full h-72 object-cover" />
+                </div>
+
+                <div className="flex items-center justify-between gap-3 mb-8">
+                  <Button
+                    variant="outline"
+                    onClick={() => neighborPoems.prev && setLocation(`/poem/${neighborPoems.prev.id}`)}
+                    disabled={!neighborPoems.prev}
+                    className="flex-1"
+                  >
+                    <ChevronLeft className="w-4 h-4 mr-2" />
+                    上一首
+                  </Button>
+                  <Button
+                    variant="outline"
+                    onClick={() => neighborPoems.next && setLocation(`/poem/${neighborPoems.next.id}`)}
+                    disabled={!neighborPoems.next}
+                    className="flex-1"
+                  >
+                    下一首
+                    <ChevronRight className="w-4 h-4 ml-2" />
+                  </Button>
                 </div>
 
                 <div className="mb-8 p-6 bg-gradient-to-br from-yellow-50 to-orange-50 rounded-lg border-2 border-yellow-200">
