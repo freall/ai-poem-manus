@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/home/ubuntu/webdev-static-assets/poem_011.png",
+    "prompt": "春天的景色，嫩绿的柳树，盛开的花朵，温暖的阳光，盛开的花朵，五彩缤纷，儿童插画风格，温暖色调",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "path": "/home/ubuntu/webdev-static-assets/poem_012.png",
+    "prompt": "春天的景色，嫩绿的柳树，盛开的花朵，温暖的阳光，圆月，温柔的月光，诗意的氛围，儿童插画风格",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "path": "/home/ubuntu/webdev-static-assets/poem_013.png",
+    "prompt": "夏日风景，荷花池塘，炎热的天气，蝉鸣，垂柳，柔和的风格，儿童插画风格，明亮色彩",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "path": "/home/ubuntu/webdev-static-assets/poem_014.png",
+    "prompt": "夏日风景，荷花池塘，炎热的天气，蝉鸣，儿童插画风格，明亮色彩，温暖氛围",
+    "aspect_ratio": "1:1"
+  },
+  {
+    "path": "/home/ubuntu/webdev-static-assets/poem_015.png",
+    "prompt": "夏日风景，荷花池塘，炎热的天气，蝉鸣，垂柳，柔和的风格，儿童插画风格，明亮色彩",
+    "aspect_ratio": "1:1"
+  }
+]

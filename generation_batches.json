@@ -1,0 +1,302 @@
+[
+  {
+    "batch_num": 1,
+    "start_id": 1,
+    "end_id": 5,
+    "poem_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "prompts": [
+      "Illustration for poem: 立春偶成",
+      "Illustration for poem: 咏柳",
+      "Illustration for poem: 春夜喜雨",
+      "Illustration for poem: 绝句",
+      "Illustration for poem: 观田家"
+    ]
+  },
+  {
+    "batch_num": 2,
+    "start_id": 6,
+    "end_id": 10,
+    "poem_ids": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "prompts": [
+      "Illustration for poem: 新雷",
+      "Illustration for poem: 春分日",
+      "Illustration for poem: 村居",
+      "Illustration for poem: 清明",
+      "Illustration for poem: 寒食"
+    ]
+  },
+  {
+    "batch_num": 3,
+    "start_id": 11,
+    "end_id": 15,
+    "poem_ids": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "prompts": [
+      "Illustration for poem: 晚春",
+      "Illustration for poem: 送春",
+      "Illustration for poem: 立夏",
+      "Illustration for poem: 池上",
+      "Illustration for poem: 五绝·小满"
+    ]
+  },
+  {
+    "batch_num": 4,
+    "start_id": 16,
+    "end_id": 20,
+    "poem_ids": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "prompts": [
+      "Illustration for poem: 归田园四时乐春夏二首·其二",
+      "Illustration for poem: 时雨",
+      "Illustration for poem: 芒种",
+      "Illustration for poem: 晓出净慈寺送林子方",
+      "Illustration for poem: 夏至"
+    ]
+  },
+  {
+    "batch_num": 5,
+    "start_id": 21,
+    "end_id": 25,
+    "poem_ids": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "prompts": [
+      "Illustration for poem: 小暑",
+      "Illustration for poem: 夏日南亭怀辛大",
+      "Illustration for poem: 大暑",
+      "Illustration for poem: 纳凉",
+      "Illustration for poem: 立秋"
+    ]
+  },
+  {
+    "batch_num": 6,
+    "start_id": 26,
+    "end_id": 30,
+    "poem_ids": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "prompts": [
+      "Illustration for poem: 山居秋暝",
+      "Illustration for poem: 处暑",
+      "Illustration for poem: 早秋",
+      "Illustration for poem: 月夜忆舍弟",
+      "Illustration for poem: 秋词二首·其一"
+    ]
+  },
+  {
+    "batch_num": 7,
+    "start_id": 31,
+    "end_id": 35,
+    "poem_ids": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "prompts": [
+      "Illustration for poem: 天净沙·秋思",
+      "Illustration for poem: 秋夕",
+      "Illustration for poem: 寒露",
+      "Illustration for poem: 九月九日忆山东兄弟",
+      "Illustration for poem: 山行"
+    ]
+  },
+  {
+    "batch_num": 8,
+    "start_id": 36,
+    "end_id": 40,
+    "poem_ids": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "prompts": [
+      "Illustration for poem: 霜月",
+      "Illustration for poem: 立冬",
+      "Illustration for poem: 江雪",
+      "Illustration for poem: 小雪",
+      "Illustration for poem: 夜雪"
+    ]
+  },
+  {
+    "batch_num": 9,
+    "start_id": 41,
+    "end_id": 45,
+    "poem_ids": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "prompts": [
+      "Illustration for poem: 大雪",
+      "Illustration for poem: 白雪歌送武判官归京",
+      "Illustration for poem: 冬至",
+      "Illustration for poem: 邯郸冬至夜思家",
+      "Illustration for poem: 小寒"
+    ]
+  },
+  {
+    "batch_num": 10,
+    "start_id": 46,
+    "end_id": 50,
+    "poem_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "prompts": [
+      "Illustration for poem: 梅花",
+      "Illustration for poem: 大寒",
+      "Illustration for poem: 卖炭翁",
+      "Illustration for poem: 元日",
+      "Illustration for poem: 拜年"
+    ]
+  },
+  {
+    "batch_num": 11,
+    "start_id": 51,
+    "end_id": 55,
+    "poem_ids": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "prompts": [
+      "Illustration for poem: 守岁",
+      "Illustration for poem: 新年作",
+      "Illustration for poem: 屠苏酒",
+      "Illustration for poem: 迎春",
+      "Illustration for poem: 元夕"
+    ]
+  },
+  {
+    "batch_num": 12,
+    "start_id": 56,
+    "end_id": 60,
+    "poem_ids": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "prompts": [
+      "Illustration for poem: 十五夜观灯",
+      "Illustration for poem: 上元夜",
+      "Illustration for poem: 正月十五夜",
+      "Illustration for poem: 元宵",
+      "Illustration for poem: 寒食"
+    ]
+  },
+  {
+    "batch_num": 13,
+    "start_id": 61,
+    "end_id": 65,
+    "poem_ids": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "prompts": [
+      "Illustration for poem: 寒食寄京师诸弟",
+      "Illustration for poem: 寒食日即事",
+      "Illustration for poem: 清明",
+      "Illustration for poem: 苏堤清明即事",
+      "Illustration for poem: 清明日"
+    ]
+  },
+  {
+    "batch_num": 14,
+    "start_id": 66,
+    "end_id": 70,
+    "poem_ids": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "prompts": [
+      "Illustration for poem: 端午",
+      "Illustration for poem: 竞渡诗",
+      "Illustration for poem: 乙卯重五诗",
+      "Illustration for poem: 端午日",
+      "Illustration for poem: 乞巧"
+    ]
+  },
+  {
+    "batch_num": 15,
+    "start_id": 71,
+    "end_id": 75,
+    "poem_ids": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "prompts": [
+      "Illustration for poem: 迢迢牵牛星",
+      "Illustration for poem: 七夕",
+      "Illustration for poem: 十五夜望月",
+      "Illustration for poem: 水调歌头·明月几时有",
+      "Illustration for poem: 中秋月"
+    ]
+  },
+  {
+    "batch_num": 16,
+    "start_id": 76,
+    "end_id": 78,
+    "poem_ids": [
+      76,
+      77,
+      78
+    ],
+    "prompts": [
+      "Illustration for poem: 醉花阴·薄雾浓云愁永昼",
+      "Illustration for poem: 除夜",
+      "Illustration for poem: 除夜雪"
+    ]
+  }
+]
