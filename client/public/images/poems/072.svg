@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff7aa2"/>
+      <stop offset="55%" stop-color="#ffd0da"/>
+      <stop offset="100%" stop-color="#fff1dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#bg)"/>
+  <circle cx="1020" cy="150" r="130" fill="#ffffff" fill-opacity="0.28"/>
+  <circle cx="170" cy="760" r="180" fill="#ffffff" fill-opacity="0.18"/>
+  <rect x="70" y="70" width="1060" height="760" rx="36" fill="#ffffff" fill-opacity="0.72"/>
+  <rect x="110" y="110" width="210" height="56" rx="28" fill="#ffffff" fill-opacity="0.9"/>
+  <text x="215" y="146" text-anchor="middle" font-size="26" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6b4f3a">七夕节</text>
+  <text x="110" y="255" font-size="78" font-weight="700" font-family="STKaiti, KaiTi, serif" fill="#3a2c24">七夕</text>
+  <text x="110" y="320" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#7a5a46">罗隐 · 唐</text>
+  <text x="110" y="410" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">络角星河菡萏天，一家欢笑设红</text><text x="110" y="464" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">筵。应倾谢女珠玑箧，尽写檀郎</text><text x="110" y="518" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">锦绣篇。香帐簇成排窈窕，金针</text><text x="110" y="572" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">穿罢拜婵娟。铜壶漏报天将晓，</text>
+  <text x="110" y="640" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#8a6f5d">配图提示词</text>
+  <text x="110" y="690" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6d594b">中国古代诗歌意境，儿童插画风格，明亮</text><text x="110" y="728" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6d594b">色彩，温暖氛围</text>
+  <text x="110" y="795" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#9a8578">本地静态插画卡片 · GitHub Pages</text>
+</svg>
