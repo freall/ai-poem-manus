@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff7aa2"/>
+      <stop offset="55%" stop-color="#ffd0da"/>
+      <stop offset="100%" stop-color="#fff1dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#bg)"/>
+  <circle cx="1020" cy="150" r="130" fill="#ffffff" fill-opacity="0.28"/>
+  <circle cx="170" cy="760" r="180" fill="#ffffff" fill-opacity="0.18"/>
+  <rect x="70" y="70" width="1060" height="760" rx="36" fill="#ffffff" fill-opacity="0.72"/>
+  <rect x="110" y="110" width="210" height="56" rx="28" fill="#ffffff" fill-opacity="0.9"/>
+  <text x="215" y="146" text-anchor="middle" font-size="26" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6b4f3a">春节</text>
+  <text x="110" y="255" font-size="78" font-weight="700" font-family="STKaiti, KaiTi, serif" fill="#3a2c24">新年作</text>
+  <text x="110" y="320" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#7a5a46">刘长卿 · 唐</text>
+  <text x="110" y="410" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">乡心新岁切，天畔独潸然。老至</text><text x="110" y="464" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">居人下，春归在客先。岭猿同旦</text><text x="110" y="518" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">暮，江柳共风烟。已似长沙傅，</text><text x="110" y="572" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">从今又几年。</text>
+  <text x="110" y="640" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#8a6f5d">配图提示词</text>
+  <text x="110" y="690" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6d594b">春天的景色，嫩绿的柳树，盛开的花朵，</text><text x="110" y="728" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6d594b">温暖的阳光，垂柳，柔和的风格，儿童插</text><text x="110" y="766" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6d594b">画风格，明亮色彩</text>
+  <text x="110" y="795" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#9a8578">本地静态插画卡片 · GitHub Pages</text>
+</svg>

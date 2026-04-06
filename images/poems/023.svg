@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58c6a9"/>
+      <stop offset="55%" stop-color="#b0f2d7"/>
+      <stop offset="100%" stop-color="#f5ffcf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="48" fill="url(#bg)"/>
+  <circle cx="1020" cy="150" r="130" fill="#ffffff" fill-opacity="0.28"/>
+  <circle cx="170" cy="760" r="180" fill="#ffffff" fill-opacity="0.18"/>
+  <rect x="70" y="70" width="1060" height="760" rx="36" fill="#ffffff" fill-opacity="0.72"/>
+  <rect x="110" y="110" width="210" height="56" rx="28" fill="#ffffff" fill-opacity="0.9"/>
+  <text x="215" y="146" text-anchor="middle" font-size="26" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6b4f3a">夏 · 大暑</text>
+  <text x="110" y="255" font-size="78" font-weight="700" font-family="STKaiti, KaiTi, serif" fill="#3a2c24">大暑</text>
+  <text x="110" y="320" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#7a5a46">曾几 · 宋</text>
+  <text x="110" y="410" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">赤日几时过，清风无处寻。经书</text><text x="110" y="464" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">聊枕籍，瓜李漫浮沉。兰若静复</text><text x="110" y="518" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">静，茅茨深又深。炎蒸乃如许，</text><text x="110" y="572" font-size="38" font-family="STKaiti, KaiTi, serif" fill="#4f3d30">那更惜分阴。</text>
+  <text x="110" y="640" font-size="24" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#8a6f5d">配图提示词</text>
+  <text x="110" y="690" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6d594b">夏日风景，荷花池塘，炎热的天气，蝉鸣</text><text x="110" y="728" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#6d594b">，儿童插画风格，明亮色彩，温暖氛围</text>
+  <text x="110" y="795" font-size="22" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#9a8578">本地静态插画卡片 · GitHub Pages</text>
+</svg>
