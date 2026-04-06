@@ -26,10 +26,7 @@
 ## 🛠 技术栈
 
 - **前端**：React 19 + Tailwind CSS 4 + Framer Motion
-- **后端**：Express 4 + tRPC 11
-- **数据库**：MySQL/TiDB
-- **认证**：Manus OAuth
-- **部署**：GitHub Pages + GitHub Actions
+- **部署**：GitHub Pages + GitHub Actions（纯静态站点，无需数据库）
 
 ## 📦 项目结构
 
@@ -42,11 +39,6 @@ poetry-learning-app/
 │   │   ├── lib/              # 工具库
 │   │   └── App.tsx           # 主应用
 │   └── public/               # 静态资源
-├── server/                    # 后端应用
-│   ├── routers.ts            # API路由
-│   ├── db.ts                 # 数据库查询
-│   └── _core/                # 核心框架
-├── drizzle/                  # 数据库schema
 ├── .github/workflows/        # GitHub Actions
 └── package.json
 ```
@@ -67,33 +59,7 @@ pnpm build
 
 # 启动生产服务器
 pnpm start
-
-# 运行测试
-pnpm test
 ```
-
-### 环境变量
-
-创建 `.env.local` 文件：
-
-```env
-DATABASE_URL=mysql://user:password@host:port/database
-JWT_SECRET=your-secret-key
-VITE_APP_ID=your-app-id
-OAUTH_SERVER_URL=https://api.manus.im
-```
-
-## 📚 API 端点
-
-### 诗词管理
-- `GET /api/trpc/poems.list` - 获取诗词列表
-- `GET /api/trpc/poems.getByCategory` - 按分类获取诗词
-- `GET /api/trpc/poems.getById` - 获取单首诗词详情
-
-### 学习记录
-- `POST /api/trpc/learning.recordAnswer` - 记录答题
-- `GET /api/trpc/learning.getProgress` - 获取学习进度
-- `GET /api/trpc/learning.getAchievements` - 获取成就
 
 ## 🎨 设计特色
 
@@ -109,7 +75,6 @@ OAUTH_SERVER_URL=https://api.manus.im
 1. **触发条件**：推送到 `main` 或 `master` 分支
 2. **构建步骤**：
    - 检查TypeScript类型
-   - 构建前端和后端
    - 生成生产版本
 3. **部署**：自动部署到GitHub Pages
 
@@ -122,7 +87,7 @@ OAUTH_SERVER_URL=https://api.manus.im
   uses: peaceiris/actions-gh-pages@v3
   with:
     github_token: ${{ secrets.GITHUB_TOKEN }}
-    publish_dir: ./dist
+    publish_dir: ./dist/public
     cname: your-domain.com  # 替换为您的域名
 ```
 

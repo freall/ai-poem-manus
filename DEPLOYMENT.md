@@ -24,7 +24,7 @@
      uses: peaceiris/actions-gh-pages@v3
      with:
        personal_token: ${{ secrets.DEPLOY_TOKEN }}
-       publish_dir: ./dist
+       publish_dir: ./dist/public
    ```
 
 ### 方案2：启用GITHUB_TOKEN权限
@@ -49,7 +49,7 @@ permissions:
   uses: peaceiris/actions-gh-pages@v3
   with:
     github_token: ${{ secrets.GITHUB_TOKEN }}
-    publish_dir: ./dist
+    publish_dir: ./dist/public
     force_orphan: true
 ```
 
@@ -81,7 +81,7 @@ permissions:
 ## 常见问题
 
 ### Q: 部署后访问404
-**A:** 确保 `publish_dir` 指向正确的构建输出目录（通常是 `dist/`）
+**A:** 确保 `publish_dir` 指向正确的构建输出目录（本项目是 `dist/public`）
 
 ### Q: 权限错误
 **A:** 使用Personal Access Token而不是GITHUB_TOKEN
@@ -108,7 +108,7 @@ pnpm install
 pnpm build
 
 # 检查dist目录是否生成
-ls -la dist/
+ls -la dist/public
 ```
 
 ## 更多信息
