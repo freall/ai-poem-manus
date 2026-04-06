@@ -127,7 +127,7 @@
     "festival": "清明",
     "translation": "这是韩翃创作的诗作，描绘了春的景象。",
     "background": "这首诗创作于唐代，由诗人韩翃创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/010.png"
+    "imageUrl": "/images/poems/010.webp"
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
     "festival": "谷雨",
     "translation": "这是韩愈创作的诗作，描绘了春的景象。",
     "background": "这首诗创作于唐代，由诗人韩愈创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/011.png"
+    "imageUrl": "/images/poems/011.webp"
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
     "festival": "谷雨",
     "translation": "这是王令创作的诗作，描绘了春的景象。",
     "background": "这首诗创作于宋代，由诗人王令创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/012.png"
+    "imageUrl": "/images/poems/012.webp"
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
     "festival": "立夏",
     "translation": "这是陆游创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/013.png"
+    "imageUrl": "/images/poems/013.webp"
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
     "festival": "立夏",
     "translation": "这是白居易创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于唐代，由诗人白居易创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/014.png"
+    "imageUrl": "/images/poems/014.webp"
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
     "festival": "小满",
     "translation": "这是欧阳修创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人欧阳修创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/015.png"
+    "imageUrl": "/images/poems/015.webp"
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
     "festival": "小满",
     "translation": "这是欧阳修创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人欧阳修创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/016.png"
+    "imageUrl": "/images/poems/016.webp"
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
     "festival": "芒种",
     "translation": "这是陆游创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/017.png"
+    "imageUrl": "/images/poems/017.webp"
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
     "festival": "芒种",
     "translation": "这是窦常创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于唐代，由诗人窦常创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/018.png"
+    "imageUrl": "/images/poems/018.webp"
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
     "festival": "夏至",
     "translation": "这是杨万里创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人杨万里创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/019.png"
+    "imageUrl": "/images/poems/019.webp"
   },
   {
     "id": 20,
@@ -257,7 +257,7 @@
     "festival": "夏至",
     "translation": "这是范成大创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人范成大创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/020.png"
+    "imageUrl": "/images/poems/020.webp"
   },
   {
     "id": 21,
@@ -270,7 +270,7 @@
     "festival": "小暑",
     "translation": "这是陆游创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/021.png"
+    "imageUrl": "/images/poems/021.webp"
   },
   {
     "id": 22,
@@ -283,7 +283,7 @@
     "festival": "小暑",
     "translation": "这是孟浩然创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于唐代，由诗人孟浩然创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/022.png"
+    "imageUrl": "/images/poems/022.webp"
   },
   {
     "id": 23,
@@ -296,7 +296,7 @@
     "festival": "大暑",
     "translation": "这是曾几创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人曾几创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/023.png"
+    "imageUrl": "/images/poems/023.webp"
   },
   {
     "id": 24,
@@ -309,7 +309,7 @@
     "festival": "大暑",
     "translation": "这是秦观创作的诗作，描绘了夏的景象。",
     "background": "这首诗创作于宋代，由诗人秦观创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/024.png"
+    "imageUrl": "/images/poems/024.webp"
   },
   {
     "id": 25,
@@ -322,7 +322,7 @@
     "festival": "立秋",
     "translation": "这是刘翰创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人刘翰创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/025.png"
+    "imageUrl": "/images/poems/025.webp"
   },
   {
     "id": 26,
@@ -335,7 +335,7 @@
     "festival": "立秋",
     "translation": "这是王维创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人王维创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/026.png"
+    "imageUrl": "/images/poems/026.webp"
   },
   {
     "id": 27,
@@ -348,7 +348,7 @@
     "festival": "处暑",
     "translation": "这是苏泂创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于宋代，由诗人苏泂创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/027.png"
+    "imageUrl": "/images/poems/027.webp"
   },
   {
     "id": 28,
@@ -361,7 +361,7 @@
     "festival": "处暑",
     "translation": "这是许浑创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人许浑创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/028.png"
+    "imageUrl": "/images/poems/028.webp"
   },
   {
     "id": 29,
@@ -374,7 +374,7 @@
     "festival": "白露",
     "translation": "这是杜甫创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人杜甫创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/029.png"
+    "imageUrl": "/images/poems/029.webp"
   },
   {
     "id": 30,
@@ -387,7 +387,7 @@
     "festival": "白露",
     "translation": "这是刘禹锡创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人刘禹锡创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/030.png"
+    "imageUrl": "/images/poems/030.webp"
   },
   {
     "id": 31,
@@ -400,7 +400,7 @@
     "festival": "秋分",
     "translation": "这是马致远创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于元代，由诗人马致远创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/031.png"
+    "imageUrl": "/images/poems/031.webp"
   },
   {
     "id": 32,
@@ -413,7 +413,7 @@
     "festival": "秋分",
     "translation": "这是杜牧创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人杜牧创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/032.png"
+    "imageUrl": "/images/poems/032.webp"
   },
   {
     "id": 33,
@@ -426,7 +426,7 @@
     "festival": "寒露",
     "translation": "这是白居易创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人白居易创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/033.png"
+    "imageUrl": "/images/poems/033.webp"
   },
   {
     "id": 34,
@@ -439,7 +439,7 @@
     "festival": "寒露",
     "translation": "这是王维创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人王维创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/034.png"
+    "imageUrl": "/images/poems/034.webp"
   },
   {
     "id": 35,
@@ -452,7 +452,7 @@
     "festival": "霜降",
     "translation": "这是杜牧创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人杜牧创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/035.png"
+    "imageUrl": "/images/poems/035.webp"
   },
   {
     "id": 36,
@@ -465,7 +465,7 @@
     "festival": "霜降",
     "translation": "这是李商隐创作的诗作，描绘了秋的景象。",
     "background": "这首诗创作于唐代，由诗人李商隐创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/036.png"
+    "imageUrl": "/images/poems/036.webp"
   },
   {
     "id": 37,
@@ -478,7 +478,7 @@
     "festival": "立冬",
     "translation": "这是李白创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人李白创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/037.png"
+    "imageUrl": "/images/poems/037.webp"
   },
   {
     "id": 38,
@@ -491,7 +491,7 @@
     "festival": "立冬",
     "translation": "这是柳宗元创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人柳宗元创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/038.png"
+    "imageUrl": "/images/poems/038.webp"
   },
   {
     "id": 39,
@@ -504,7 +504,7 @@
     "festival": "小雪",
     "translation": "这是戴叔伦创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人戴叔伦创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/039.png"
+    "imageUrl": "/images/poems/039.webp"
   },
   {
     "id": 40,
@@ -517,7 +517,7 @@
     "festival": "小雪",
     "translation": "这是白居易创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人白居易创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/040.png"
+    "imageUrl": "/images/poems/040.webp"
   },
   {
     "id": 41,
@@ -530,7 +530,7 @@
     "festival": "大雪",
     "translation": "这是陆游创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/041.png"
+    "imageUrl": "/images/poems/041.webp"
   },
   {
     "id": 42,
@@ -543,7 +543,7 @@
     "festival": "大雪",
     "translation": "这是岑参创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人岑参创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/042.png"
+    "imageUrl": "/images/poems/042.webp"
   },
   {
     "id": 43,
@@ -556,7 +556,7 @@
     "festival": "冬至",
     "translation": "这是杜甫创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人杜甫创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/043.png"
+    "imageUrl": "/images/poems/043.webp"
   },
   {
     "id": 44,
@@ -569,7 +569,7 @@
     "festival": "冬至",
     "translation": "这是白居易创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人白居易创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/044.png"
+    "imageUrl": "/images/poems/044.webp"
   },
   {
     "id": 45,
@@ -582,7 +582,7 @@
     "festival": "小寒",
     "translation": "这是陆游创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/045.png"
+    "imageUrl": "/images/poems/045.webp"
   },
   {
     "id": 46,
@@ -595,7 +595,7 @@
     "festival": "小寒",
     "translation": "这是王安石创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于宋代，由诗人王安石创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/046.png"
+    "imageUrl": "/images/poems/046.webp"
   },
   {
     "id": 47,
@@ -608,7 +608,7 @@
     "festival": "大寒",
     "translation": "这是陆游创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/047.png"
+    "imageUrl": "/images/poems/047.webp"
   },
   {
     "id": 48,
@@ -621,7 +621,7 @@
     "festival": "大寒",
     "translation": "这是白居易创作的诗作，描绘了冬的景象。",
     "background": "这首诗创作于唐代，由诗人白居易创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/048.png"
+    "imageUrl": "/images/poems/048.webp"
   },
   {
     "id": 49,
@@ -633,7 +633,7 @@
     "festival": "春节",
     "translation": "这是王安石创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人王安石创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/049.png"
+    "imageUrl": "/images/poems/049.webp"
   },
   {
     "id": 50,
@@ -645,7 +645,7 @@
     "festival": "春节",
     "translation": "这是文徵明创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于明代，由诗人文徵明创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/050.png"
+    "imageUrl": "/images/poems/050.webp"
   },
   {
     "id": 51,
@@ -657,7 +657,7 @@
     "festival": "春节",
     "translation": "这是苏轼创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人苏轼创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/051.png"
+    "imageUrl": "/images/poems/051.webp"
   },
   {
     "id": 52,
@@ -669,7 +669,7 @@
     "festival": "春节",
     "translation": "这是刘长卿创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人刘长卿创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/052.png"
+    "imageUrl": "/images/poems/052.webp"
   },
   {
     "id": 53,
@@ -681,7 +681,7 @@
     "festival": "春节",
     "translation": "这是陆游创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/053.png"
+    "imageUrl": "/images/poems/053.webp"
   },
   {
     "id": 54,
@@ -693,7 +693,7 @@
     "festival": "春节",
     "translation": "这是叶燮创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于清代，由诗人叶燮创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/054.png"
+    "imageUrl": "/images/poems/054.webp"
   },
   {
     "id": 55,
@@ -705,7 +705,7 @@
     "festival": "元宵节",
     "translation": "这是辛弃疾创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人辛弃疾创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/055.png"
+    "imageUrl": "/images/poems/055.webp"
   },
   {
     "id": 56,
@@ -717,7 +717,7 @@
     "festival": "元宵节",
     "translation": "这是卢照邻创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人卢照邻创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/056.png"
+    "imageUrl": "/images/poems/056.webp"
   },
   {
     "id": 57,
@@ -729,7 +729,7 @@
     "festival": "元宵节",
     "translation": "这是崔液创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人崔液创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/057.png"
+    "imageUrl": "/images/poems/057.webp"
   },
   {
     "id": 58,
@@ -741,7 +741,7 @@
     "festival": "元宵节",
     "translation": "这是苏味道创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人苏味道创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/058.png"
+    "imageUrl": "/images/poems/058.webp"
   },
   {
     "id": 59,
@@ -753,7 +753,7 @@
     "festival": "元宵节",
     "translation": "这是唐寅创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于明代，由诗人唐寅创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/059.png"
+    "imageUrl": "/images/poems/059.webp"
   },
   {
     "id": 60,
@@ -765,7 +765,7 @@
     "festival": "寒食节",
     "translation": "这是韩翃创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人韩翃创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/060.png"
+    "imageUrl": "/images/poems/060.webp"
   },
   {
     "id": 61,
@@ -777,7 +777,7 @@
     "festival": "寒食节",
     "translation": "这是韦应物创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人韦应物创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/061.png"
+    "imageUrl": "/images/poems/061.webp"
   },
   {
     "id": 62,
@@ -789,7 +789,7 @@
     "festival": "寒食节",
     "translation": "这是温庭筠创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人温庭筠创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/062.png"
+    "imageUrl": "/images/poems/062.webp"
   },
   {
     "id": 63,
@@ -801,7 +801,7 @@
     "festival": "清明节",
     "translation": "这是王禹偁创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人王禹偁创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/063.png"
+    "imageUrl": "/images/poems/063.webp"
   },
   {
     "id": 64,
@@ -813,7 +813,7 @@
     "festival": "清明节",
     "translation": "这是吴惟信创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人吴惟信创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/064.png"
+    "imageUrl": "/images/poems/064.webp"
   },
   {
     "id": 65,
@@ -825,7 +825,7 @@
     "festival": "清明节",
     "translation": "这是温庭筠创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人温庭筠创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/065.png"
+    "imageUrl": "/images/poems/065.webp"
   },
   {
     "id": 66,
@@ -837,7 +837,7 @@
     "festival": "端午节",
     "translation": "这是文秀创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人文秀创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/066.png"
+    "imageUrl": "/images/poems/066.webp"
   },
   {
     "id": 67,
@@ -849,7 +849,7 @@
     "festival": "端午节",
     "translation": "这是卢肇创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人卢肇创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/067.png"
+    "imageUrl": "/images/poems/067.webp"
   },
   {
     "id": 68,
@@ -861,7 +861,7 @@
     "festival": "端午节",
     "translation": "这是陆游创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/068.png"
+    "imageUrl": "/images/poems/068.webp"
   },
   {
     "id": 69,
@@ -873,7 +873,7 @@
     "festival": "端午节",
     "translation": "这是殷尧藩创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人殷尧藩创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/069.png"
+    "imageUrl": "/images/poems/069.webp"
   },
   {
     "id": 70,
@@ -885,7 +885,7 @@
     "festival": "七夕节",
     "translation": "这是林杰创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人林杰创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/070.png"
+    "imageUrl": "/images/poems/070.webp"
   },
   {
     "id": 71,
@@ -897,7 +897,7 @@
     "festival": "七夕节",
     "translation": "这是佚名创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于汉代，由诗人佚名创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/071.png"
+    "imageUrl": "/images/poems/071.webp"
   },
   {
     "id": 72,
@@ -909,7 +909,7 @@
     "festival": "七夕节",
     "translation": "这是罗隐创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人罗隐创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/072.png"
+    "imageUrl": "/images/poems/072.webp"
   },
   {
     "id": 73,
@@ -921,7 +921,7 @@
     "festival": "中秋节",
     "translation": "这是王建创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人王建创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/073.png"
+    "imageUrl": "/images/poems/073.webp"
   },
   {
     "id": 74,
@@ -933,7 +933,7 @@
     "festival": "中秋节",
     "translation": "这是苏轼创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人苏轼创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/074.png"
+    "imageUrl": "/images/poems/074.webp"
   },
   {
     "id": 75,
@@ -945,7 +945,7 @@
     "festival": "中秋节",
     "translation": "这是晏殊创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人晏殊创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/075.png"
+    "imageUrl": "/images/poems/075.webp"
   },
   {
     "id": 76,
@@ -957,7 +957,7 @@
     "festival": "重阳节",
     "translation": "这是李清照创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人李清照创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/076.png"
+    "imageUrl": "/images/poems/076.webp"
   },
   {
     "id": 77,
@@ -969,7 +969,7 @@
     "festival": "除夕",
     "translation": "这是高适创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于唐代，由诗人高适创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/077.png"
+    "imageUrl": "/images/poems/077.webp"
   },
   {
     "id": 78,
@@ -981,6 +981,6 @@
     "festival": "除夕",
     "translation": "这是陆游创作的诗作，描绘了季节的景象。",
     "background": "这首诗创作于宋代，由诗人陆游创作，表现了诗人对自然和生活的感悟。",
-    "imageUrl": "/images/poems/078.png"
+    "imageUrl": "/images/poems/078.webp"
   }
 ]
